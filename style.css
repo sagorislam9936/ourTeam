@@ -1,0 +1,37 @@
+.bgHovar {
+  border: 2px solid #fe676d;
+}
+.bgHovar:hover {
+  background-color: aqua;
+  border-color: green;
+  transition: 1s ease-in-out;
+}
+.imgg {
+  border: 8px solid #fe676d;
+}
+
+.iconn {
+  padding-right: 7px;
+  font-size: 25px;
+  color: #fe676d;
+}
+
+.colar {
+  font-size: 20px;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+span {
+  color: #fe676d;
+}
+
+.coll :hover {
+  color: black;
+  transition: 1s ease-in-out;
+}
+
+.fontHovar :hover {
+  color: black;
+  transition: 1s ease-in-out;
+}
